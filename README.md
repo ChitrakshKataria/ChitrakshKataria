@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Chitraksh
 
-<!--
-**ChitrakshKataria/ChitrakshKataria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a VG3 student in Norway studying realfag with Physics 2, R2 math, and Chemistry 2.  
+I’m exploring programming and considering applying to Datateknologi or a related computer science field.
 
-Here are some ideas to get you started:
+I like understanding how things work, both in science and in code, and I’m using projects to improve step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills so far
+
+Languages  
+HTML, CSS, JavaScript, PHP, SQL
+
+Tools  
+Git, GitHub, MySQL, VS Code  
+
+Currently learning  
+Better JavaScript, backend basics, and how real systems are structured
+I'm taking the CS50 by Harvard online 
+
+## Goals
+
+- Get into a strong technology or computer science program  
+- Become comfortable with both frontend and backend development  
+- Build larger, real projects that are actually useful  
+- Contribute to open source in the future  
